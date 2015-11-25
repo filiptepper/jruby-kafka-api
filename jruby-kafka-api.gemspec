@@ -11,7 +11,6 @@ Gem::Specification.new do |spec|
   spec.platform      = "java"
 
   spec.summary       = %q{Kafka JAR files for producer and comsumer APIs}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
