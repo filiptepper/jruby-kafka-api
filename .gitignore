@@ -8,3 +8,11 @@
 /spec/reports/
 /tmp/
 /vendor/bundle/
+/lib/com/
+/lib/io/
+/lib/javax/
+/lib/jline/
+/lib/junit/
+/lib/log4j/
+/lib/net/
+/lib/org/
